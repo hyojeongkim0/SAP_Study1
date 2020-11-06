@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: customer.hyojeong1.it.CatalogServiceITest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.646 s - in customer.hyojeong1.it.CatalogServiceITest

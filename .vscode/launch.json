@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run hyojeong1-1",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "customer.hyojeong1.Application",
+      "projectName": "hyojeong1",
+      "preLaunchTask": "Build hyojeong1",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env1",
+      "env": {
+        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/projects/hyojeong1\\\",\\\"profileName\\\":\\\"\\\"}\"}"
+      }
+    }
+  ]
+}
